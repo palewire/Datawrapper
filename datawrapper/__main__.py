@@ -1388,7 +1388,7 @@ class Datawrapper:
         # Issue a deprecation warning
         logger.warning(
             "This method is deprecated and will be removed in a future version. "
-            "Use get_account_info instead."
+            "Use get_my_account instead."
         )
 
         # Use the newer method
